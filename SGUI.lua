@@ -1,3 +1,9 @@
+-- =============================================
+-- BOOSTUI v2 - Upgraded & Modernized
+-- Short & Clean API | Smooth Animations | Sections | Hover Effects
+-- Fixed bugs + New features (Accent color, Minimize, Sections, Label)
+-- =============================================
+
 local BoostUI = {}
 
 local Players = game:GetService("Players")
